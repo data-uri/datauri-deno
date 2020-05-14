@@ -12,7 +12,7 @@ from: [Wikipedia](http://en.wikipedia.org/wiki/Data_URI_scheme)
 ```typescript
 import { datauri } from "https://deno.land/x/datauri/mod.ts";
 
-const str = await datauri("assets/image.gif");
+const helloWorld = await datauri("assets/image.gif");
 console.log(helloWorld); // data:image/gif,base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7
 ```
 
