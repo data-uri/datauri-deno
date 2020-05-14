@@ -15,7 +15,7 @@ jobs:
           deno-version: ${{ matrix.deno }}
 
       - name: Check format
-        run: deno fmt --check **/*.ts
+        run: deno fmt --check
 
       - name: Typecheck
         run: deno run mod.ts
