@@ -7,7 +7,7 @@
 
 from: [Wikipedia](http://en.wikipedia.org/wiki/Data_URI_scheme)
 
-## Modude
+## Module
 Datauri requires `--allow-read` flag to be executed successfully.
 
 ### Usage
