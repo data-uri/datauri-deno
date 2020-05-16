@@ -1,5 +1,5 @@
 # datauri 🦕
-[Module](#Module) and [CLI](#CLI) to generate [Data URI scheme](http://en.wikipedia.org/wiki/Data_URI_scheme).
+[Module](#module) and [CLI](#cli) to generate [Data URI scheme](http://en.wikipedia.org/wiki/Data_URI_scheme).
 
 ![.github/workflows/deno.yml](https://github.com/data-uri/datauri-deno/workflows/.github/workflows/deno.yml/badge.svg)
 
